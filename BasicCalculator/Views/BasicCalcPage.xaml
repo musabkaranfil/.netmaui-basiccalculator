@@ -16,7 +16,7 @@
                      Grid.ColumnSpan="4">
 
             <Label HorizontalOptions="End"
-                   VerticalOptions="Start"
+                   VerticalOptions="StartAndExpand"
                    Style="{StaticResource ResultLabelStyle}"
                    Text="{Binding Result}"/>
 
